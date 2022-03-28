@@ -1,5 +1,7 @@
 # docker-wine
 
+ARM yes
+
 ![Docker](https://github.com/huan/docker-wine/workflows/Docker/badge.svg)
 
 [![dockeri.co](https://dockeri.co/image/zixia/wine)](https://hub.docker.com/r/zixia/wine/)
